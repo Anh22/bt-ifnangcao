@@ -86,18 +86,18 @@
 // console.log("Tổng giá điện là: " + tongGiaDien + " đơn vị tiền tệ");
 
 // Bài 11: Viết chương trình tính thuế thu nhập cá nhân.
-a = +prompt('Thu nhap hàng năm của bạn là ');
-let tyLrthue;
-let thue = 0 ;
-if (a<5000){
-    tyLrthue = 0.05;
-}
-else if(a<=10000){
-    tyLrthue = 0.1;
-}
-else {
-    tyLrthue  = 0.15;
-}
-thue = tyLrthue*a
-alert(thue)
+// a = +prompt('Thu nhap hàng năm của bạn là ');
+// let tyLrthue;
+// let thue = 0 ;
+// if (a<5000){
+//     tyLrthue = 0.05;
+// }
+// else if(a<=10000){
+//     tyLrthue = 0.1;
+// }
+// else {
+//     tyLrthue  = 0.15;
+// }
+// thue = tyLrthue*a
+// alert(thue)
 
